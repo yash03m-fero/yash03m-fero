@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash03m-fero
+- 👋 Hi, I’m @yashfero
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me yash.maheshwari@fero.ai
